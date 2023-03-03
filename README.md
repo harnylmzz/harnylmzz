@@ -3,10 +3,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-- 
--   
+- 🌱 I’m usually learning everything :D but currently [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
