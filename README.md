@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Harun 👋
 
 My Instagram profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) 
-My Twitter profile: https://twitter.com/harnylmzz10line
-My LinkedIn profile: https://www.linkedin.com/in/harun-y%C4%B1lmaz-750552235/
+My Twitter profile: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/harnylmzz10line)
+
 
 <!--
 **harnylmzz/harnylmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
