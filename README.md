@@ -3,10 +3,7 @@
 ##### My Instagram profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) 
 ##### My Twitter profile: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/harnylmzz10line)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=harnylmzz&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harnylmzz)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harnylmzz&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=harnylmzz&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harnylmzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **harnylmzz/harnylmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
