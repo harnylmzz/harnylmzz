@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My Instagram profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) 
+My Twitter profile: https://twitter.com/harnylmzz10line
+My LinkedIn profile: https://www.linkedin.com/in/harun-y%C4%B1lmaz-750552235/
+
 <!--
 **harnylmzz/harnylmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
