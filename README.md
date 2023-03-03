@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 - 
 -   
