@@ -2,7 +2,7 @@
 
  🔗 Contact with me 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/harnylmzz10line)  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/harnylmzz10line)  [![General badge](https://img.shields.io/badge/<GMAİL>-<harnylmzz@outlook.com>-<COLOR>.svg)](https://shields.io/)
 
 
 ##### I was always a student because I'm a lifetime learner ↓
