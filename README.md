@@ -7,6 +7,9 @@
 ##### My YouTube channel:
 https://www.youtube.com/@harunylmazvlog/
 
+#### My Medium profile:
+https://medium.com/@harnylmzzonline
+
 
 #### I'm always a student because I'm a lifetime learner ↓
 ##### -----------------------------------------------------
