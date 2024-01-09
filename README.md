@@ -4,9 +4,10 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/harnylmzz10line)     <a href="https://www.linkedin.com/in/harnylmzz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
-
+<a href="https://https://www.youtube.com/@harunyilmazvlog" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-0077B5?style=flat-square&logo=Youtube&logoColor=white"></a>
 
 #### My YouTube channel:
+
 
 https://www.youtube.com/@harunyilmazvlog
 
