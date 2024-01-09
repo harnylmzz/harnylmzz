@@ -6,10 +6,8 @@
 
 
 #### My YouTube channel:
-https://img.shields.io/youtube/channel/:[channelId](https://www.youtube.com/@harunyilmazvlog)
-
-
-<a href="https://www.youtube.com/@harunyilmazvlog" target="_blank">
+https://www.youtube.com/@harunyilmazvlog
+ 
   <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-0077B5?style=flat-square&logo=Youtube&logoColor=white">
 </a>
 
