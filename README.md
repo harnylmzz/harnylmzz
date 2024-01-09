@@ -17,8 +17,8 @@ https://medium.com/@harnylmzzonline
 ##### -----------------------------------------------------
 - 🌱 That's why I’m usually learning everything 😄 but currently [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on with other content creators
-- 🥅 2024 goals: Learn more about Java and React, 
-- ⚡ Fun fact: I love write book, making videos.
+- 🥅 2024 goals: Learn more about Java and React
+- ⚡ Fun fact: I love write book, making videos
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=harnylmzz&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harnylmzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
