@@ -7,10 +7,6 @@
 
 #### My YouTube channel:
 https://www.youtube.com/@harunyilmazvlog
- 
-  <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-0077B5?style=flat-square&logo=Youtube&logoColor=white">
-</a>
-
 
 #### My Medium profile:
 https://medium.com/@harnylmzzonline
