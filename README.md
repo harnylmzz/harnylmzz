@@ -15,7 +15,8 @@ https://medium.com/@harnylmzzonline
 
 #### I'm always a student because I'm a lifetime learner ↓
 ##### -----------------------------------------------------
-- 🌱 That's why I’m usually learning everything 😄 but currently [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+- 🌱 That's why I’m usually learning everything 😄 but currently <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+and <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 👯 I’m looking to collaborate on with other content creators
 - 🥅 2024 goals: Learn more about Java and React
 - ⚡ Fun fact: I love write book, making videos
