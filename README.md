@@ -1,6 +1,15 @@
 ### Hi there, I'm Harun 👋
 
  ##### 🔗 Contact with me 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harnylmzz10line" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harnylmzz10line" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harnylmzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harnylmzz" height="30" width="40" /></a>
+<a href="https://instagram.com/harnylmzz10line" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harnylmzz10line" height="30" width="40" /></a>
+<a href="https://medium.com/@harnylmzzonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harnylmzzonline" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/harunyilmazvlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harunyilmazvlog" height="30" width="40" /></a>
+</p>
+
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/harnylmzz10line/)) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/harnylmzz10line)     <a href="https://www.linkedin.com/in/harnylmzz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
