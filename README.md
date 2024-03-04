@@ -13,7 +13,7 @@
 #### I'm always a student because I'm a lifetime learner ↓
 ##### -----------------------------------------------------
 - 🌱 That's why I’m usually learning everything 😄 but currently <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-and <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 - 👯 I’m looking to collaborate on with other content creators
 - 🥅 2024 goals: Learn more about Java and React
 - ⚡ Fun fact: I love write book, making videos
