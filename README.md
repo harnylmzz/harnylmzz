@@ -13,7 +13,6 @@
 </p>
 
 #### I'm always a student because I'm a lifetime learner ↓
-##### -----------------------------------------------------
 - 🌱 That's why I’m usually learning everything 😄 but currently <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 - 👯 I’m looking to collaborate on with other content creators
